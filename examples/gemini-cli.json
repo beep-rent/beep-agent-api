@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "beep": {
+      "httpUrl": "https://mcp.beep.rent/mcp"
+    }
+  }
+}
